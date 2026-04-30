@@ -25,8 +25,7 @@ A lightweight, concurrent Python server using **UDP**, **TCP** and **Threading**
 2.  **Start the Server:**
     ```bash
     python3 udp_server.py / python3 tcp_server.py
-
-```
+    ```
 
 3.  **Run a Client:**
     ```bash
